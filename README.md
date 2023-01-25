@@ -1,15 +1,18 @@
-**# MY FIRST**
+#Bioinformatics-Workshop
 My first repository to store and write
-I will write on the Bioinformatics workshop we have had from 23 January - 27 January 2023
 
 #DAY ONE
 **Installation of tools.**
-**Installation**
-1.Git bash
+The following describes steps you can use to install required tools for the training.
+
+
+Install:
+1.Git Bash
 2.R-studio
 
 #DAY TWO
 **Introduction to command line**
+
 1.Introduction to shell.
 -What is a command shell and why would i use one?
 2.Navigation of files and directories.
@@ -20,5 +23,13 @@ I will write on the Bioinformatics workshop we have had from 23 January - 27 Jan
 -How can i create,copy and delete files and directories.
 -How can i edit files.
 
+
+##Reading materials
+-[carpentries resources](https://swcarpentry.github.io/shell-novice/)
+
+
 #DAY THREE
-**Introduction to git hub**
+
+**Introduction to github**
+
+
